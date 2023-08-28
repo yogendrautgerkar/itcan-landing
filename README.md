@@ -1,8 +1,4 @@
-<img src="https://github.com/Signor1/jadoo-travels/blob/25638627b142935345059e6bfcc32bc829629c20/Jadoo-Travel-Agency.png"/>
 
-# Jadoo Travel Agency Landing Page
-
-This project is a landing page for Jadoo Travel Agency built using React, TypeScript, and Vite.
 
 ## Features
 
@@ -87,13 +83,3 @@ The project structure follows a standard React application structure:
 ## Deployment
 
 To deploy the Jadoo Travel Agency landing page, you can follow the deployment instructions specific to your chosen hosting platform (e.g., Netlify, Vercel, GitHub Pages, etc.). Typically, you need to build the project and configure the hosting platform to serve the generated files.
-
-## Credits
-
-This project was developed by [SignorDev](https://github.com/signor1). It was created as a sample landing page for a travel agency based on the Jadoo brand.
-
-## Demo
-
-[View Project](https://jadoo-tour.vercel.app)
-
-Feel free to explore the code, customize it, and use it as a foundation for your own projects. Happy traveling with Jadoo Travel Agency!
